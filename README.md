@@ -1,12 +1,10 @@
-# parser_lexer_PL
+# Project Name: JSON-like Language Parser
 
 Name:		Monish Kumar Dhanasekar
 B-Number:	B01025975
 Email:		mdhanasekar@binghamton.edu
 
 Add text here as needed to document the status of your project.
-
-# Project Name: JSON-like Language Parser
 
 Language used: Python
 
